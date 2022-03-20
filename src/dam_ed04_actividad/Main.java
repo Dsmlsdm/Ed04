@@ -1,7 +1,6 @@
 /**
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Es un proyecto creado para la asignatura de Entornos de desarrollo
+ * En la que hemos realizado la refractorizacion.
  */
 
 
@@ -17,7 +16,7 @@ public class Main {
     }
 
     public static void operativa_cuenta() {
-        cantidad
+        float cuenta;
         CCuenta cuenta1;
         double saldoActual;
         
