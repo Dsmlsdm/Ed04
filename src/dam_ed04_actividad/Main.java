@@ -6,15 +6,25 @@
 
 package dam_ed04_actividad;
 
-
+/**
+ *
+ * @author nina
+ */
 public class Main {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         
         
         operativa_cuenta();
     }
 
+    /**
+     *
+     */
     public static void operativa_cuenta() {
         float cuenta;
         CCuenta cuenta1;
